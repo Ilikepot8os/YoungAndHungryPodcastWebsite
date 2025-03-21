@@ -458,9 +458,9 @@ body, html {
 #ourMissionSection {
   width: 100%;
   min-height: 100vh; /* Use min-height instead of height */
-  background-image: url("https://i.postimg.cc/L8hRrvC2/our-Mission-Enhanced.jpg");
+  background-image: url("https://i.postimg.cc/hPK3gCh5/our-Mission.png");
   background-size: cover;
-  background-position: center;
+  background-position: top center;
   background-repeat: no-repeat;
   display: flex;
   align-items: center;
